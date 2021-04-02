@@ -11,10 +11,7 @@ As a data scientist at a home electronics company which manufactures state of th
 •	Thumbs down		: Decrease the volume.
 •	Left swipe		: 'Jump' backwards 10 seconds.
 •	Right swipe		: 'Jump' forward 10 seconds. 
-•	Stop			: Pause the movie.  
-
-Here’s the data: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
-
+•	Stop			: Pause the movie.
 
 Understanding the Dataset
 The training data consists of a few hundred videos categorized into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames (images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use. 
