@@ -1,1 +1,1 @@
-# gensture-study
+# Gesture Study with Github Actions
