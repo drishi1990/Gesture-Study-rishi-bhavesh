@@ -11,7 +11,7 @@ As a data scientist at a home electronics company which manufactures state of th
 •	Thumbs down		: Decrease the volume.
 •	Left swipe		: 'Jump' backwards 10 seconds.
 •	Right swipe		: 'Jump' forward 10 seconds. 
-•	Stop			: Pause the movie. 
+•	Stop			: Pause the movie.  
 
 Here’s the data: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
